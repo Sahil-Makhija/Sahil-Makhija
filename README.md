@@ -1,9 +1,7 @@
 <div align="center">
   
 # 👋 Hey, I'm Sahil
-<!--
-![Banner](https://your-linkedin-banner-url.com)
--->
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQEkckfaTqXlYA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723640357919?e=1746057600&v=beta&t=OuqLtfL2uuZXTXzgj7A7kmIk_kavAf1aWQmyghymxX0)
 </div>
 
 ## 🔡 Security Researcher | Software Developer  
