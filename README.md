@@ -38,11 +38,12 @@ def current_projects(self):
         ]
 -->
 
+<!--
 ## 🔐 Security Projects
 - **[Pentest Automation Toolkit](#)** - Automating security assessments efficiently.
 - **[Web App Security Scanner](#)** - Identifying vulnerabilities in modern web apps.
 - **[HTB Write-ups](#)** - Documenting unique security challenges.
-
+-->
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
